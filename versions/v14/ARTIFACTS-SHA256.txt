@@ -1,0 +1,2 @@
+4b5e29344018024607fdd9b0336dd727523c2e29ca7410c80d76b515d99d700e  proidea-standalone-sector-repos-live-ready-v14-family-flows-and-control-plane.zip
+825ea22cfbdb7e66ee51dd94b6c973383e58ff91523a1e9ad11932e2725d107f  ALL-SECTORS-PDF-INDEX-v14.pdf
